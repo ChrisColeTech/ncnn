@@ -1,0 +1,933 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\allocator.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\benchmark.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\blob.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\c_api.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\command.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\cpu.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\datareader.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\gpu.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat_pixel.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat_pixel_affine.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat_pixel_drawing.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat_pixel_resize.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\mat_pixel_rotate.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\modelbin.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\net.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\option.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\paramdict.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\pipeline.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\pipelinecache.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\simpleocv.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\simpleomp.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\simplestl.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\simplemath.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\concat.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\concat_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\convolution.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\convolution_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx512vnni.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avxvnni.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_xop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\crop.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\crop_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\deconvolution.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\deconvolution_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\flatten.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\flatten_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\innerproduct.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\innerproduct_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_f16c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\input.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\pooling.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\pooling_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\relu.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\relu_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\reshape.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\reshape_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\split.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\binaryop.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\binaryop_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\unaryop.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\unaryop_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\padding.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\padding_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\interp.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\interp_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\packing.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\packing_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\cast.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\cast_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx512bf16.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_f16c.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\gemm.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\gemm_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\glu.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\fold.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\unfold.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\gridsample.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86.cpp">
+      <Filter>sources\layers\x86</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_avx512.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_fma.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_avx.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\cumulativesum.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\copyto.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\erf.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\erf_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\diag.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\celu.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\vulkan\celu_vulkan.cpp">
+      <Filter>sources\layers\vulkan</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\shrink.cpp">
+      <Filter>sources\layers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\concat_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\convolution_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\crop_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\deconvolution_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\flatten_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\innerproduct_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\pooling_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\relu_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\reshape_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\binaryop_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\unaryop_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\padding_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\interp_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\packing_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\cast_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gemm_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_avx512.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_fma.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\layer\x86\gridsample_x86_avx.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\concat_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\convolution_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\crop_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\deconvolution_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\flatten_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\innerproduct_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\pooling_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\relu_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\reshape_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\binaryop_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\unaryop_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\padding_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\interp_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\packing_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\cast_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gemm_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_avx512.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_avx512.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_fma.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_fma.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_avx.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\41c97fcf2e7481a5070a3734afd97f7e\gridsample_x86_avx.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{638A5E3F-6BC8-38A0-90B9-57FC1BC6D475}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E328CE83-D85C-3316-804C-4502BA36B444}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F6BD46D6-C8B1-3EC8-881F-8F26BAECD716}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{9C8C507D-EA74-3A71-ACF1-0C2907A5DB7B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources\layers">
+      <UniqueIdentifier>{20624768-D962-32E2-B91A-9971D6367866}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources\layers\vulkan">
+      <UniqueIdentifier>{068CD087-04F8-3EAA-977F-EB2768DCE1E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources\layers\x86">
+      <UniqueIdentifier>{053AC122-C512-3B3A-91E5-D484E812399B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

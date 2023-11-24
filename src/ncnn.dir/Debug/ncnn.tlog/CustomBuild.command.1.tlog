@@ -1,0 +1,1030 @@
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_avx512.h -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_avx512.cpp -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_fma.h -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_fma.cpp -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_avx.h -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONCAT_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/concat_x86_avx.cpp -DCLASS=Concat -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_avx512.h -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_avx512.cpp -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_fma.h -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_fma.cpp -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_avx.h -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CONVOLUTION_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/convolution_x86_avx.cpp -DCLASS=Convolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_avx512.h -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_avx512.cpp -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_fma.h -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_fma.cpp -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_avx.h -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CROP_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/crop_x86_avx.cpp -DCLASS=Crop -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_avx512.h -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_avx512.cpp -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_fma.h -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_fma.cpp -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_avx.h -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\DECONVOLUTION_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/deconvolution_x86_avx.cpp -DCLASS=Deconvolution -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_avx512.h -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_avx512.cpp -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_fma.h -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_fma.cpp -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_avx.h -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\FLATTEN_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/flatten_x86_avx.cpp -DCLASS=Flatten -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_avx512.h -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_avx512.cpp -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_fma.h -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_fma.cpp -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_avx.h -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INNERPRODUCT_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/innerproduct_x86_avx.cpp -DCLASS=InnerProduct -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_avx512.h -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_avx512.cpp -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_fma.h -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_fma.cpp -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_avx.h -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\POOLING_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/pooling_x86_avx.cpp -DCLASS=Pooling -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_avx512.h -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_avx512.cpp -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_fma.h -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_fma.cpp -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_avx.h -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RELU_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/relu_x86_avx.cpp -DCLASS=ReLU -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_avx512.h -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_avx512.cpp -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_fma.h -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_fma.cpp -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_avx.h -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\RESHAPE_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/reshape_x86_avx.cpp -DCLASS=Reshape -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_avx512.h -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_avx512.cpp -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_fma.h -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_fma.cpp -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_avx.h -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\BINARYOP_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/binaryop_x86_avx.cpp -DCLASS=BinaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_avx512.h -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_avx512.cpp -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_fma.h -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_fma.cpp -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_avx.h -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\UNARYOP_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/unaryop_x86_avx.cpp -DCLASS=UnaryOp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_avx512.h -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_avx512.cpp -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_fma.h -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_fma.cpp -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_avx.h -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PADDING_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/padding_x86_avx.cpp -DCLASS=Padding -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_avx512.h -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_avx512.cpp -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_fma.h -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_fma.cpp -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_avx.h -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\INTERP_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/interp_x86_avx.cpp -DCLASS=Interp -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_avx512.h -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_avx512.cpp -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_fma.h -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_fma.cpp -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_avx.h -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\PACKING_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/packing_x86_avx.cpp -DCLASS=Packing -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_avx512.h -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_avx512.cpp -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_fma.h -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_fma.cpp -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_avx.h -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\CAST_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/cast_x86_avx.cpp -DCLASS=Cast -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_avx512.h -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_avx512.cpp -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_fma.h -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_fma.cpp -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_avx.h -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GEMM_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gemm_x86_avx.cpp -DCLASS=Gemm -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_AVX512.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_avx512.h -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_AVX512.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_avx512.cpp -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx512_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_FMA.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_fma.h -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_FMA.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_fma.cpp -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_fma_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_AVX.H.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.h -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_avx.h -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\CMAKEFILES\41C97FCF2E7481A5070A3734AFD97F7E\GRIDSAMPLE_X86_AVX.CPP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -DSRC=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86.cpp -DDST=C:/Projects/dain-ncnn-vulkan/src/ncnn/src/layer/x86/gridsample_x86_avx.cpp -DCLASS=GridSample -P C:/Projects/dain-ncnn-vulkan/src/ncnn/src/../cmake/ncnn_generate_avx_source.cmake
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\PROJECTS\DAIN-NCNN-VULKAN\SRC\NCNN\SRC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Projects/dain-ncnn-vulkan/src -BC:/Projects/dain-ncnn-vulkan/src --check-stamp-file C:/Projects/dain-ncnn-vulkan/src/ncnn/src/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

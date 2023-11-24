@@ -1,0 +1,704 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_broadcast.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_broadcast_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_broadcast_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_broadcast_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_broadcast_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\binaryop_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp16_to_fp32_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp16_to_fp32_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp32_to_fp16_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\cast_fp32_to_fp16_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\celu.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\celu_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\celu_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\concat_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convert_ycbcr.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_3x3s1d1_winograd23_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_3x3s1d1_winograd23_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_3x3s1d1_winograd43_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_3x3s1d1_winograd43_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to4_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to4_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to8_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to8_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack1to8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_1x1s1d1_khr_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_1x1s1d1_khr_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_1x1s1d1_nv_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_1x1s1d1_nv_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd23_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd23_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd43_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd43_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd_gemm_khr_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd_gemm_khr_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd_gemm_nv_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_3x3s1d1_winograd_gemm_nv_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_gemm_khr_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_gemm_khr_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_gemm_nv_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4_gemm_nv_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to1_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to1_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to1_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to8_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to8_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack4to8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_3x3s1d1_winograd23_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_3x3s1d1_winograd23_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_3x3s1d1_winograd43_transform_input.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_3x3s1d1_winograd43_transform_output.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to1_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to1_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to1_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to4_1x1s1d1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to4_3x3s1d1_winograd_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\convolution_pack8to4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\crop_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_col2im.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack1to4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack1to8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_col2im.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_gemm_khr_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_gemm_khr_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_gemm_nv_cm_16_16_16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4_gemm_nv_cm_16_8_8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4to1_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack4to8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8_col2im.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8to1_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\deconvolution_pack8to4_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\erf.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\erf_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\erf_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\flatten_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_gemm_wp8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_reduce_sum8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_reduce_sum8_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_reduce_sum8_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\innerproduct_sum8_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_bicubic.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_bicubic_coeffs.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_bicubic_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_bicubic_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\interp_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to4_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to4_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to8_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack1to8_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to1_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to1_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to8_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack4to8_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to1_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to1_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to4_fp16_to_fp32.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\packing_pack8to4_fp32_to_fp16.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_3d.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_3d_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_3d_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\padding_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_adaptive.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_adaptive_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_adaptive_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_global.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_global_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_global_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\pooling_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\relu.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\relu_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\relu_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack1to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack1to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack4to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack4to8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack8to1.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\reshape_pack8to4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\unaryop.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\unaryop_pack4.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\unaryop_pack8.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\f18b18328dc4af96f88c9c13073f21e4\vulkan_activation.comp.hex.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\CMakeFiles\00fa7812781c7ce6f6aa973dc82b89b9\ncnn-generate-spirv.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Projects\dain-ncnn-vulkan\src\ncnn\src\CMakeFiles\ncnn-generate-spirv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{638A5E3F-6BC8-38A0-90B9-57FC1BC6D475}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
